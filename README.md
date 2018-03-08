@@ -4,5 +4,6 @@
 - npm install/yarn install
 - quasar dev
 - quasar dev
+- quasar dev
 
 
